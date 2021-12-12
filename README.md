@@ -52,5 +52,5 @@ import os, sys, bcrypt
 # Tabelas
 
 | Nome | email |
-|--------------|
+|------|-------|
 | Alex | meu email |
