@@ -31,7 +31,7 @@ _Itálico 2_
 
 [Google](https://google.com)
 
-![Imagem](https://raw.githubusercontent.com/Alexsussa/eyed3-gtk-gui/master/screenshot-eyed-gui_pt_BR.png)
+![Imagem](https://logodownload.org/wp-content/uploads/2014/09/google-logo-1.png)
 
 # Quotes
 
